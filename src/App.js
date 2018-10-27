@@ -2,7 +2,10 @@ import React from 'react';
 import fbicon from './images/facebook-logo.png';
 import messenger from './images/messenger-logo.png';
 import gplus from './images/google-plus-logo.png';
-
+import windows from './images/windows-logo.png';
+import wpflogo from './images/wpf-logo.png';
+import dblogo from './images/database.png';
+import windowsres from './images/windows-res.png';
 
 class App extends React.Component {
   render() {
@@ -27,15 +30,32 @@ class App extends React.Component {
                       </i></p>
                       <button>Start Scrolling</button>
                   <div className="media-logos">
-                      <img src={fbicon} className="facebook-logo" alt="Facebook"/>
-                      <img src={messenger} className="messenger-logo" alt="Facebook"/>
-                      <img src={gplus} className="google-plus-logo" alt="Facebook"/>
+                      <img src={fbicon} alt="Facebook"/>
+                      <img src={messenger}  alt="Messenger"/>
+                      <img src={gplus}  alt="Google Plus"/>
                   </div>
                   </div>
               </div>
           </header>
       <div className="Work">
-          <div></div>
+          <div className="Work-container">
+            <div className="box">
+               <img src={wpflogo} alt="Facebook"/>
+               <p>Windows Presentation Foundation</p>
+            </div>
+            <div className="box">
+               <img src={windows}  alt="Facebook"/>
+               <p>Windows Application</p>
+            </div>
+            <div className="box">
+               <img src={dblogo} alt="Facebook"/>
+               <p>Relational Database</p>
+            </div>
+            <div className="box">
+               <img src={windowsres} alt="Facebook"/>
+               <p>Windows App UI</p>
+            </div>
+          </div>
       </div>
     </div>
     );

@@ -46,7 +46,7 @@ body {
 }
 /* Main Content Style */
 .main-content .container{
-    margin-top: 100px;
+    margin-top: 110px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -79,8 +79,20 @@ body {
       padding: 20px 5px;
 }
 .Work .Work-container{
-      height: 100vh;
+    text-align: center;
+    padding: 20px;
+}   
+.Work .Work-container .box{
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
 }
+.Work img{
+    height: 70px;
+    width: 70px;
+    margin-top: 20px;
+}
+
   /* Mobile */
 @media (max-width: 720px){
     .top-nav{
@@ -122,5 +134,21 @@ body {
         height: 30px;
         width: 30px;
         padding: 15px 5px;
+    }
+    .Work .Work-container{
+        margin: 0;
+    }
+    .Work .Work-container .box{
+        width: 80px;
+        vertical-align: top;
+    }
+    .Work .Work-container img{
+        height: 40px;
+        width: 40px;
+        margin: 10px;
+    }
+    .Work .Work-container p{
+        font-size: 12px;
+        margin-top: 0px;
     }
 }
