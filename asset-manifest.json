@@ -1,14 +1,14 @@
 {
-  "main.css": "/my-portfolio/static/css/main.c51e75b9.chunk.css",
-  "main.js": "/my-portfolio/static/js/main.e3b5be50.chunk.js",
-  "main.js.map": "/my-portfolio/static/js/main.e3b5be50.chunk.js.map",
+  "main.css": "/my-portfolio/static/css/main.a6b2f6fe.chunk.css",
+  "main.js": "/my-portfolio/static/js/main.96dcfefe.chunk.js",
+  "main.js.map": "/my-portfolio/static/js/main.96dcfefe.chunk.js.map",
   "static/js/1.3f11fea1.chunk.js": "/my-portfolio/static/js/1.3f11fea1.chunk.js",
   "static/js/1.3f11fea1.chunk.js.map": "/my-portfolio/static/js/1.3f11fea1.chunk.js.map",
   "runtime~main.js": "/my-portfolio/static/js/runtime~main.f2bb3e8d.js",
   "runtime~main.js.map": "/my-portfolio/static/js/runtime~main.f2bb3e8d.js.map",
   "static/media/index.css": "/my-portfolio/static/media/pier-background.0dc70f16.jpg",
-  "static/css/main.c51e75b9.chunk.css.map": "/my-portfolio/static/css/main.c51e75b9.chunk.css.map",
+  "static/css/main.a6b2f6fe.chunk.css.map": "/my-portfolio/static/css/main.a6b2f6fe.chunk.css.map",
   "index.html": "/my-portfolio/index.html",
-  "precache-manifest.44ee2c1c6db0a464596e11f0a2e5b9e4.js": "/my-portfolio/precache-manifest.44ee2c1c6db0a464596e11f0a2e5b9e4.js",
+  "precache-manifest.ed70b7aa485b5c9d7fa3760b7936aede.js": "/my-portfolio/precache-manifest.ed70b7aa485b5c9d7fa3760b7936aede.js",
   "service-worker.js": "/my-portfolio/service-worker.js"
 }

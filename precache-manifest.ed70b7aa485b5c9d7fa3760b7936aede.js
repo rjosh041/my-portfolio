@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e3b5be50bc78beeb005c",
-    "url": "/my-portfolio/static/css/main.c51e75b9.chunk.css"
+    "revision": "96dcfefeb2ab57806390",
+    "url": "/my-portfolio/static/css/main.a6b2f6fe.chunk.css"
   },
   {
-    "revision": "e3b5be50bc78beeb005c",
-    "url": "/my-portfolio/static/js/main.e3b5be50.chunk.js"
+    "revision": "96dcfefeb2ab57806390",
+    "url": "/my-portfolio/static/js/main.96dcfefe.chunk.js"
   },
   {
     "revision": "3f11fea1ab5adf614535",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/pier-background.0dc70f16.jpg"
   },
   {
-    "revision": "b3b44bc43187b2e1596daabcdfdedb4a",
+    "revision": "311ed283b7398a74a8fe61d3b39f836a",
     "url": "/my-portfolio/index.html"
   }
 ];
